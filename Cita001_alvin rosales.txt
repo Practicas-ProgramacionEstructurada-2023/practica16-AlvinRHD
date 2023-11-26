@@ -1,0 +1,4 @@
+Nombre del Paciente: alvin rosales
+Fecha de Citas: 12/12/2023 13:43:00
+Razón de Consulta: dolor de cabeza
+Costo de Consulta: 60
